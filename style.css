@@ -16,7 +16,8 @@
   width: 100%;
 }
 
-.eisenhower-matrix .eisenhower-matrix__more-inf {
+.eisenhower-matrix
+.eisenhower-matrix__more-inf {
   font-family: fantasy, cursive;
 }
 
